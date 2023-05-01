@@ -1,0 +1,1 @@
+# yamme-auto-script
